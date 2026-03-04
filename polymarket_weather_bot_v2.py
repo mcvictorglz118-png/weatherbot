@@ -624,4 +624,5 @@ if __name__ == "__main__":
     elif args.monitor:
         monitor(interval=args.interval)
     else:
+
         run(dry_run=not args.live)
