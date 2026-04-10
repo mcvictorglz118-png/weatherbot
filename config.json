@@ -1,6 +1,6 @@
 {
-  "balance": 10000.0,
-  "max_bet": 10.0,
+  "balance": 100.0,
+  "max_bet": 5.0,
   "min_ev": 0.17,
   "max_price": 0.4,
   "min_volume": 500,
